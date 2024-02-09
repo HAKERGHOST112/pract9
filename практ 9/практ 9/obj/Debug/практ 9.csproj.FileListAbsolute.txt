@@ -1,0 +1,11 @@
+C:\Users\koa93\source\repos\практ 9\практ 9\bin\Debug\практ 9.exe.config
+C:\Users\koa93\source\repos\практ 9\практ 9\bin\Debug\практ 9.exe
+C:\Users\koa93\source\repos\практ 9\практ 9\bin\Debug\практ 9.pdb
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ 9.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ_9.Form1.resources
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ_9.Form2.resources
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ_9.Properties.Resources.resources
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ 9.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ 9.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ 9.exe
+C:\Users\koa93\source\repos\практ 9\практ 9\obj\Debug\практ 9.pdb
